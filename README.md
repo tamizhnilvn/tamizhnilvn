@@ -165,15 +165,6 @@ To become an Embedded Systems Engineer and Entrepreneur by developing innovative
 
 ---
 
-# 🏆 GitHub Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=tamizhnilvn&theme=tokyonight&row=2&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 # 💼 Internship Experience
 
