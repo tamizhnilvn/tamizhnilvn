@@ -19,34 +19,18 @@
 
 ---
 
-# 👋 About Me
 
-```python
-class TamizhNilavan:
+## 👋 About Me
 
-    def __init__(self):
-        self.name = "Tamizh Nilavan A"
-        self.location = "Puducherry, India"
-        self.education = "B.Tech Electronics and Communication Engineering"
-        self.honours = "Internet of Things"
-        self.college = "Sri Manakula Vinayagar Engineering College"
-        self.cgpa = 8.03
+🎓 Final Year B.Tech Electronics & Communication Engineering student at **Sri Manakula Vinayagar Engineering College**, pursuing **B.Tech Honours in Internet of Things**.
 
-    @property
-    def interests(self):
-        return [
-            "Embedded Systems",
-            "Internet of Things",
-            "PCB Design",
-            "TinyML",
-            "Edge AI",
-            "Product Development"
-        ]
+💡 Passionate about **Embedded Systems, Internet of Things, PCB Design, TinyML, Embedded AI, and Product Development**.
 
-    def motto(self):
-        return "Build • Innovate • Learn • Repeat 🚀"
-```
+⚡ I enjoy designing intelligent hardware systems by integrating microcontrollers, sensors, PCB design, and software to solve real-world engineering problems.
 
+🚀 Currently focused on building innovative healthcare, IoT, and sustainable technology solutions while preparing for a career in Embedded Systems and entrepreneurship.
+
+📍 **Location:** Puducherry, India
 ### 💡 Who am I?
 
 I am an Electronics and Communication Engineering student passionate about designing intelligent embedded systems and IoT solutions.
@@ -158,18 +142,6 @@ I enjoy working with microcontrollers, PCB design, embedded programming, cloud-e
 ## 🎯 Career Objective
 
 To become an Embedded Systems Engineer and Entrepreneur by developing innovative hardware products that solve real-world problems through IoT, Embedded AI, and intelligent electronic systems.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamizhnilvn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamizhnilvn&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
