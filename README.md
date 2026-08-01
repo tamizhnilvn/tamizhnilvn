@@ -1,21 +1,19 @@
+
+# Tamizh Nilavan A
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Tamizh%20Nilavan%20A&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20IoT%20Developer%20%7C%20Embedded%20Systems&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tamizh%20Nilavan%20A&fontSize=44&fontColor=ffffff" width="100%"/>
 </p>
 
-<div align="center">
+<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+IoT+Developer;PCB+Designer+%7C+TinyML+Enthusiast;Building+Smart+Hardware+Solutions;Always+Learning+Something+New)](https://github.com/tamizhnilvn)
-
-</div>
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;IoT+Developer;PCB+Designer;TinyML+Enthusiast;Building+Smart+Hardware+Solutions)](https://github.com/tamizhnilvn)
 
 [![GitHub](https://img.shields.io/badge/GitHub-tamizhnilvn-181717?style=flat-square&logo=github)](https://github.com/tamizhnilvn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamizh%20Nilavan-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/tamizh-nilavan)
 [![Email](https://img.shields.io/badge/Gmail-tamizhnilavan24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tamizhnilavan24@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=tamizhnilvn&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/tamizhnilvn)
 
-</div>
+</p>
 
 ---
 
